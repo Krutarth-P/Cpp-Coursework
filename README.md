@@ -21,17 +21,20 @@
 # Labs And Assignments
 
 ## [LAB 2](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab2).
-This assignment implements a graphics based Tic-Tac-Toe game which uses the SFML graphics library to help with the user interface.
+This assignment implements a graphics based Tic-Tac-Toe game which uses the SFML graphics library to help with the user interface. [click here to view repo](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab2).
 
 
 ## [LAB 3](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab3).
+[click here to view repo](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab3).
 
 
 
 ## [LAB 4](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab4).
+[click here to view repo](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab4).
 
 
 ## [LAB 5](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab5).
+[click here to view repo](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab5).
 
 
 
