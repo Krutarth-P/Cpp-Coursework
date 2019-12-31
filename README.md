@@ -20,23 +20,21 @@
 
 # Labs And Assignments
 
-## [LAB 2- Tic-Tac-Toe](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab2).
+## [LAB 2 - Tic-Tac-Toe](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab2).
 This assignment implements a graphics based Tic-Tac-Toe game which uses the SFML graphics library to help with the user interface. [click here to view folder](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab2).
 
 
-## [LAB 3- A Command Line Parser](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab3).
-This assignment implements a command line parser that provides a textual input interface. The  commands  create,  delete  modify  and  display shapes to  be  drawn  on  the  screen[click here to view folder](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab3).
+## [LAB 3 - A Command Line Parser](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab3).
+This assignment implements a command line parser that provides a textual input interface. The  commands  create,  delete  modify  and  display shapes to  be  drawn  on  the  screen. [click here to view folder](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab3).
 
 
 
-## [LAB 4](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab4).
-This assignment implements an Asteroid Space Game AI that chooses the best action depending on the server data.   
-[click here to view folder](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab4).
+## [LAB 4 - Asteroid Space Game](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab4).
+This assignment implements an Asteroid Space Game and an AI algorithm that chooses the best action depending on the server data. [click here to view folder](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab4).
 
 
-## [LAB 5](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab5).
-This assignment implements a databsase that functions as a Domain Name System (DNS) Server.
-[click here to view folder](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab5).
+## [LAB 5 - Domain Name System (DNS) Server](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab5).
+This assignment implements a databsase that functions as a Domain Name System (DNS) Server. [click here to view folder](https://github.com/Krutarth-P/Cpp-Coursework/tree/master/lab5).
 
 
 
